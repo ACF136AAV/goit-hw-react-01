@@ -1,9 +1,3 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-
-// Імпорт стилів нормалізації 10-05-2024
-// import "modern-normalize";
 import './App.css'
 
 import Profile from '../Profile/Profile';
