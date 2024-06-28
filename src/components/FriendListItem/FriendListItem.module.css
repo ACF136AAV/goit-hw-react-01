@@ -1,0 +1,29 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    padding: 25px;
+    border: 1px solid black;
+    background-color: white;
+    overflow: hidden;
+}
+
+.avatar {
+    width: 100px;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
